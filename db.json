@@ -4,91 +4,99 @@
       "id": 1,
       "name": "Ninh Bình",
       "province": "Ninh Bình",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://top10ninhbinh.com/wp-content/uploads/2022/10/anh-ninh-binh-2.jpg"
     },
     {
       "id": 2,
       "name": "Hạ Long",
       "province": "Quảng Ninh",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://cdn.vn.alongwalk.info/wp-content/uploads/2023/04/02030503/image-101-hinh-anh-ha-long-nen-tho-huu-tinh-khien-ban-phai-ngat-ngay-168035430373418.jpg"
     },
     {
       "id": 3,
       "name": "Hội An",
       "province": "Quảng Nam",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://sakos.vn/wp-content/uploads/2023/04/hoi-an-1.jpg"
     },
     {
       "id": 4,
       "name": "Phong Nha",
       "province": "Quảng Bình",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://www.quangbinhtravel.vn/wp-content/uploads/2018/03/hang-son-doong-2.jpg"
     },
     {
       "id": 5,
       "name": "Đà Nẵng",
       "province": "Đà Nẵng",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://vcdn1-dulich.vnecdn.net/2022/06/03/cauvang-1654247842-9403-1654247849.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Swd6JjpStebEzT6WARcoOA"
     },
     {
       "id": 6,
       "name": "Nha Trang",
       "province": "Khánh Hòa",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://vietnam.travel/sites/default/files/styles/top_banner/public/2021-05/Nha%20Trang%20Travel%20Guide%20Vietnam%20Tourism.jpg?itok=Pciu0qod"
     },
     {
       "id": 7,
       "name": "Đà Lạt",
       "province": "Lâm Đồng",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://static.vinwonders.com/production/gioi-thieu-ve-da-lat-1.jpg"
     },
     {
       "id": 8,
       "name": "Sapa",
       "province": "Lào Cai",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://vietnam.travel/sites/default/files/2021-05/Sapa%20Travel%20Guide%20Vietnam%20Tourism.jpg"
     },
     {
       "id": 9,
       "name": "Vũng Tàu",
       "province": "Bà Rịa - Vũng Tàu",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://cdn3.ivivu.com/2022/09/T%E1%BB%95ng-quan-du-l%E1%BB%8Bch-V%C5%A9ng-T%C3%A0u-ivivu.jpg"
     },
     {
       "id": 10,
       "name": "Cần Thơ",
       "province": "Cần Thơ",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://nld.mediacdn.vn/291774122806476800/2022/4/4/2-den-tho-1649041986873108153050.jpg"
     },
     {
       "id": 11,
       "name": "Hà Nội",
       "province": "Hà Nội",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://vcdn1-dulich.vnecdn.net/2022/05/12/Hanoi2-1652338755-3632-1652338809.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=NxMN93PTvOTnHNryMx3xJw"
     },
     {
       "id": 12,
       "name": "Hồ Chí Minh",
       "province": "Hồ Chí Minh",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://cdnphoto.dantri.com.vn/JpeCWtGF6QU37njc1xDZc4wOKbM=/2021/04/28/ubnd-tp-1619582754877.jpg"
     },
     {
       "id": 13,
       "name": "Huế",
       "province": "Thừa Thiên Huế",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://file.baothuathienhue.vn/data2/image/fckeditor/upload/2022/20220405/images/image005.jpg?dpi=150&quality=100&w=1920"
     },
     {
       "id": 14,
       "name": "Hải Phòng",
       "province": "Hải Phòng",
-      "country": "Việt Nam"
-    },
-    {
-      "id": 15,
-      "name": "Ninh Bình",
-      "province": "Ninh Bình",
-      "country": "Việt Nam"
+      "country": "Việt Nam",
+      "image": "https://ik.imagekit.io/tvlk/blog/2021/09/kinh-nghiem-du-lich-hai-phong-1.jpg"
     }
   ],
   "rooms": [
@@ -99,7 +107,7 @@
       "bedRoom": 4,
       "bath": 4,
       "description": "Biệt thự sang trọng với vườn xanh mát, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "500,000 VND",
+      "price": 500000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -116,7 +124,7 @@
         "province": "Ninh Bình",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMwKbIezzGGAk8cUr6jHmAp2HSrnKPQetjQ&usqp=CAU"
+      "image": "https://pix10.agoda.net/hotelImages/34768604/-1/54d2505afb86432125e4e4b0ed164861.jpg?ce=0&s=414x232"
     },
     {
       "id": 2,
@@ -125,7 +133,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự gần biển với không gian thoáng đãng, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "700,000 VND",
+      "price": 700000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -142,7 +150,7 @@
         "province": "Quảng Ninh",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqtlYx9Ew2ZQ1kdTqUuweUWU93z9I0ObMyw&usqp=CAU"
+      "image": "https://pix10.agoda.net/hotelImages/34629830/0/369cb049b52831f962bee53873227a17.jpg?ce=0&s=414x232"
     },
     {
       "id": 3,
@@ -151,7 +159,7 @@
       "bedRoom": 5,
       "bath": 5,
       "description": "Biệt thự phong cách cổ điển với không gian lịch lãm, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "900,000 VND",
+      "price": 900000,
       "elevator": true,
       "hotTub": true,
       "pool": true,
@@ -168,7 +176,7 @@
         "province": "Quảng Nam",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OMT1UfRtXVTWjwpq_-5hOrOt3OEk1Vt3Xg&usqp=CAU"
+      "image": "https://owa.bestprice.vn/images/hotels/uploads/movenpick-resort-phan-thiet-634e4ba809943.jpg"
     },
     {
       "id": 4,
@@ -177,7 +185,7 @@
       "bedRoom": 6,
       "bath": 6,
       "description": "Biệt thự hiện đại giữa trung tâm thành phố, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "1,200,000 VND",
+      "price": 1200000,
       "elevator": true,
       "hotTub": false,
       "pool": true,
@@ -194,7 +202,7 @@
         "province": "Quảng Bình",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2v8t1-ESBldlmsOJNCudUKaTecwNnoT-jA&usqp=CAU"
+      "image": "https://nld.mediacdn.vn/291774122806476800/2022/1/24/photo-1-1643007846087112105429.jpg"
     },
     {
       "id": 5,
@@ -203,7 +211,7 @@
       "bedRoom": 2,
       "bath": 2,
       "description": "Biệt thự tọa lạc tại vùng biển đẹp Sơn Trà, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "400,000 VND",
+      "price": 400000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -220,7 +228,7 @@
         "province": "Đà Nẵng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJpEshj-nW8xOqOjG1N3gW4qNhylR0lUu2w&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-CNSylAg7Id8Vm2EiY-Ik07qKfciEKYmCHpPGRAzZq3ZszS98VI10w0TvG25Y4TSxpU&usqp=CAU"
     },
     {
       "id": 6,
@@ -229,7 +237,7 @@
       "bedRoom": 3,
       "bath": 3,
       "description": "Biệt thự tiện nghi với tầm nhìn ra biển tuyệt vời, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "600,000 VND",
+      "price": 600000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -246,7 +254,7 @@
         "province": "Khánh Hòa",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKvWCFRoM5S8A0mNsXx6U7ntgQaHvayDCUw&usqp=CAU"
+      "image": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/02/paracel-resort-hai-tien-9-1.jpg"
     },
     {
       "id": 7,
@@ -255,7 +263,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự tuyệt vời với khung cảnh hữu tình ở Đà Lạt, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "800,000 VND",
+      "price": 800000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -272,7 +280,7 @@
         "province": "Lâm Đồng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqfNVj8hNptzv3wFuE6nS5eeL3cDpTl5F1Q&usqp=CAU"
+      "image": "https://s3.ap-southeast-1.amazonaws.com/mytourcdn.com/resources/pictures/hotels/5/hlx1523529386_paracel_resort_hai_tien.jpg"
     },
     {
       "id": 8,
@@ -281,7 +289,7 @@
       "bedRoom": 2,
       "bath": 2,
       "description": "Biệt thự gần mây Sapa với không gian yên bình, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "450,000 VND",
+      "price": 450000,
       "elevator": false,
       "hotTub": false,
       "pool": false,
@@ -298,7 +306,7 @@
         "province": "Lào Cai",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtf0SkzRRFQwIJ1rwg13dcuS7uULtpNk0LNg&usqp=CAU"
+      "image": "https://hotel84.com/hotel84-images/product/photo/dat-phong-Paracel-hai-tien.jpg"
     },
     {
       "id": 9,
@@ -307,7 +315,7 @@
       "bedRoom": 5,
       "bath": 4,
       "description": "Biệt thự sát bờ biển tại Vũng Tàu, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "850,000 VND",
+      "price": 850000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -324,7 +332,7 @@
         "province": "Bà Rịa - Vũng Tàu",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6lMKbEo0p0r5m2yE4yH5hNQI9HBk0PPvvQ&usqp=CAU"
+      "image": "https://naturabungalow.com/pic/news/khach-san-co-be-boi-vo-cuc-dep-nhat-pu-luong-natur_4985.jpg"
     },
     {
       "id": 10,
@@ -333,7 +341,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự ven sông tại Cần Thơ, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "600,000 VND",
+      "price": 600000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -350,7 +358,7 @@
         "province": "Cần Thơ",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhskS3j1HwPd0bRGN0emgQ49MOrVXMD0jtwg&usqp=CAU"
+      "image": "https://pix10.agoda.net/hotelImages/19931941/0/319b8d3fd097ea7518c9a022e2f7ce4e.jpg?ce=0&s=414x232&ar=16x9"
     },
     {
       "id": 11,
@@ -359,7 +367,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự tuyệt vời bên hồ Tây, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "750,000 VND",
+      "price": 750000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -376,7 +384,7 @@
         "province": "Hà Nội",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBLFbMW8BCzYyRfg8eebC2XtLcsNk-mCJGw&usqp=CAU"
+      "image": "https://photo.znews.vn/w660/Uploaded/divspivp/2023_03_28/290012916_221527030199373_3032291677178224495_n.jpg"
     },
     {
       "id": 12,
@@ -385,7 +393,7 @@
       "bedRoom": 5,
       "bath": 4,
       "description": "Biệt thự hiện đại tại Sài Gòn, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "900,000 VND",
+      "price": 900000,
       "elevator": true,
       "hotTub": true,
       "pool": true,
@@ -402,7 +410,7 @@
         "province": "Hồ Chí Minh",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqyQ8lF4Nfy63ZsGq5bQaL8cwQHbiREkGHg&usqp=CAU"
+      "image": "https://i1-kinhdoanh.vnecdn.net/2022/05/10/image-334980159-extractword-1-3052-8192-1652143744.png?w=680&h=0&q=100&dpr=1&fit=crop&s=PD4N3jCnrL7MeLg2iEuJVQ"
     },
     {
       "id": 13,
@@ -411,7 +419,7 @@
       "bedRoom": 3,
       "bath": 3,
       "description": "Biệt thự tiện nghi tại thành phố cổ Huế, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "550,000 VND",
+      "price": 550000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -428,7 +436,7 @@
         "province": "Thừa Thiên Huế",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bZ5cwD4ihU-MOuM5QfGr0s0p5TCTsWh8lA&usqp=CAU"
+      "image": "https://acihome.vn/uploads/15/khach-san-nghi-duong-ven-bien-2750m2-co-kien-truc-hoa-cung-thien-nhien-4.JPG"
     },
     {
       "id": 14,
@@ -437,7 +445,7 @@
       "bedRoom": 2,
       "bath": 2,
       "description": "Biệt thự gần biển tại Hải Phòng, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "450,000 VND",
+      "price": 450000,
       "elevator": false,
       "hotTub": false,
       "pool": false,
@@ -454,7 +462,7 @@
         "province": "Hải Phòng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBK6xNvKNkT8-7HAdTJJWrJ2M91Ir6hfx89Q&usqp=CAU"
+      "image": "https://acihome.vn/uploads/15/khach-san-nghi-duong-ven-bien-2750m2-co-kien-truc-hoa-cung-thien-nhien-10.JPG"
     },
     {
       "id": 15,
@@ -463,7 +471,7 @@
       "bedRoom": 4,
       "bath": 4,
       "description": "Biệt thự sang trọng với vườn xanh mát, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "500,000 VND",
+      "price": 500000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -480,7 +488,7 @@
         "province": "Ninh Bình",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMwKbIezzGGAk8cUr6jHmAp2HSrnKPQetjQ&usqp=CAU"
+      "image": "https://acihome.vn/uploads/15/khach-san-nghi-duong-ven-bien-2750m2-co-kien-truc-hoa-cung-thien-nhien-6.JPG"
     },
     {
       "id": 16,
@@ -489,7 +497,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự gần biển với không gian thoáng đãng, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "700,000 VND",
+      "price": 700000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -506,7 +514,7 @@
         "province": "Quảng Ninh",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqtlYx9Ew2ZQ1kdTqUuweUWU93z9I0ObMyw&usqp=CAU"
+      "image": "https://acihome.vn/uploads/15/khach-san-nghi-duong-ven-bien-2750m2-co-kien-truc-hoa-cung-thien-nhien-6.JPG"
     },
     {
       "id": 17,
@@ -515,7 +523,7 @@
       "bedRoom": 5,
       "bath": 5,
       "description": "Biệt thự phong cách cổ điển với không gian lịch lãm, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "900,000 VND",
+      "price": 900000,
       "elevator": true,
       "hotTub": true,
       "pool": true,
@@ -532,7 +540,7 @@
         "province": "Quảng Nam",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OMT1UfRtXVTWjwpq_-5hOrOt3OEk1Vt3Xg&usqp=CAU"
+      "image": "https://ezcloud.vn/wp-content/uploads/2018/06/ninh-van-bay-1-1.jpg"
     },
     {
       "id": 18,
@@ -541,7 +549,7 @@
       "bedRoom": 6,
       "bath": 6,
       "description": "Biệt thự hiện đại giữa trung tâm thành phố, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "1,200,000 VND",
+      "price": 1200000,
       "elevator": true,
       "hotTub": false,
       "pool": true,
@@ -558,7 +566,7 @@
         "province": "Quảng Bình",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2v8t1-ESBldlmsOJNCudUKaTecwNnoT-jA&usqp=CAU"
+      "image": "https://toquoc.mediacdn.vn/280518851207290880/2021/5/15/stunning-sunset-at-the-1620959674-1621047588038-1621047588473527755006.jpg"
     },
     {
       "id": 19,
@@ -567,7 +575,7 @@
       "bedRoom": 2,
       "bath": 2,
       "description": "Biệt thự tọa lạc tại vùng biển đẹp Sơn Trà, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "800,000 VND",
+      "price": 800000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -593,7 +601,7 @@
       "bedRoom": 3,
       "bath": 3,
       "description": "Biệt thự tiện nghi với tầm nhìn ra biển tuyệt vời, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "600,000 VND",
+      "price": 600000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -610,7 +618,7 @@
         "province": "Khánh Hòa",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKvWCFRoM5S8A0mNsXx6U7ntgQaHvayDCUw&usqp=CAU"
+      "image": "https://static.wixstatic.com/media/918e63_42f37d77a08f4f1da7cc1f3e48b185ac~mv2.jpg/v1/fill/w_640,h_298,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/918e63_42f37d77a08f4f1da7cc1f3e48b185ac~mv2.jpg"
     },
     {
       "id": 21,
@@ -619,7 +627,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự tuyệt vời với khung cảnh hữu tình ở Đà Lạt, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "800,000 VND",
+      "price": 800000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -636,7 +644,7 @@
         "province": "Lâm Đồng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqfNVj8hNptzv3wFuE6nS5eeL3cDpTl5F1Q&usqp=CAU"
+      "image": "https://rubeach-hotel-rerost-song-cau.hotelmix.vn/data/Photos/OriginalPhoto/12437/1243791/1243791394/Rubeach-Hotel-Rerost-Song-Cau-Exterior.JPEG"
     },
     {
       "id": 22,
@@ -645,7 +653,7 @@
       "bedRoom": 2,
       "bath": 2,
       "description": "Biệt thự gần mây Sapa với không gian yên bình, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "450,000 VND",
+      "price": 450000,
       "elevator": false,
       "hotTub": false,
       "pool": false,
@@ -662,7 +670,7 @@
         "province": "Lào Cai",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtf0SkzRRFQwIJ1rwg13dcuS7uULtpNk0LNg&usqp=CAU"
+      "image": "https://pix10.agoda.net/hotelImages/34768604/-1/54d2505afb86432125e4e4b0ed164861.jpg?ce=0&s=414x232"
     },
     {
       "id": 23,
@@ -671,7 +679,7 @@
       "bedRoom": 5,
       "bath": 4,
       "description": "Biệt thự sát bờ biển tại Vũng Tàu, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "750,000 VND",
+      "price": 750000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -688,7 +696,7 @@
         "province": "Bà Rịa - Vũng Tàu",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6lMKbEo0p0r5m2yE4yH5hNQI9HBk0PPvvQ&usqp=CAU"
+      "image": "https://owa.bestprice.vn/images/hotels/uploads/movenpick-resort-phan-thiet-634e4ba809943.jpg"
     },
     {
       "id": 24,
@@ -697,7 +705,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự ven sông tại Cần Thơ, phòng ngủ thoải mái và đầy đủ tiện nghi.",
-      "price": "600,000 VND",
+      "price": 600000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -714,7 +722,7 @@
         "province": "Cần Thơ",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhskS3j1HwPd0bRGN0emgQ49MOrVXMD0jtwg&usqp=CAU"
+      "image": "https://naturabungalow.com/pic/news/khach-san-co-be-boi-vo-cuc-dep-nhat-pu-luong-natur_4985.jpg"
     },
     {
       "id": 25,
@@ -723,7 +731,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự tuyệt vời bên hồ Tây, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "750,000 VND",
+      "price": 750000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -740,7 +748,7 @@
         "province": "Hà Nội",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBLFbMW8BCzYyRfg8eebC2XtLcsNk-mCJGw&usqp=CAU"
+      "image": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/02/paracel-resort-hai-tien-9-1.jpg"
     },
     {
       "id": 26,
@@ -749,7 +757,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự nằm ở bán đảo Lăng Cô, view biển tuyệt đẹp, phòng ngủ tiện nghi và rộng rãi.",
-      "price": "850,000 VND",
+      "price": 850000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -766,7 +774,7 @@
         "province": "Đà Nẵng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJpEshj-nW8xOqOjG1N3gW4qNhylR0lUu2w&usqp=CAU"
+      "image": "https://nld.mediacdn.vn/291774122806476800/2022/1/24/photo-1-1643007846087112105429.jpg"
     },
     {
       "id": 27,
@@ -775,7 +783,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự tọa lạc bên bờ sông Tràng An, view đẹp, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "700,000 VND",
+      "price": 700000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -792,7 +800,7 @@
         "province": "Ninh Bình",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMwKbIezzGGAk8cUr6jHmAp2HSrnKPQetjQ&usqp=CAU"
+      "image": "https://photo.znews.vn/w660/Uploaded/divspivp/2023_03_28/290012916_221527030199373_3032291677178224495_n.jpg"
     },
     {
       "id": 28,
@@ -801,7 +809,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự gần biển Cổ Thạch, phòng ngủ tiện nghi và rộng rãi, view biển tuyệt đẹp.",
-      "price": "700,000 VND",
+      "price": 700000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -818,7 +826,7 @@
         "province": "Quảng Ninh",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqtlYx9Ew2ZQ1kdTqUuweUWU93z9I0ObMyw&usqp=CAU"
+      "image": "https://photo.znews.vn/w660/Uploaded/divspivp/2023_03_28/290012916_221527030199373_3032291677178224495_n.jpg"
     },
     {
       "id": 29,
@@ -827,7 +835,7 @@
       "bedRoom": 5,
       "bath": 4,
       "description": "Biệt thự nằm trong khu vườn tại Hội An, view đẹp, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "850,000 VND",
+      "price": 850000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -844,7 +852,7 @@
         "province": "Quảng Nam",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OMT1UfRtXVTWjwpq_-5hOrOt3OEk1Vt3Xg&usqp=CAU"
+      "image": "https://pix10.agoda.net/hotelImages/19931941/0/319b8d3fd097ea7518c9a022e2f7ce4e.jpg?ce=0&s=414x232&ar=16x9"
     },
     {
       "id": 30,
@@ -853,7 +861,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự hiện đại tại thành phố Đà Lạt, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "800,000 VND",
+      "price": 800000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -870,7 +878,7 @@
         "province": "Lâm Đồng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqfNVj8hNptzv3wFuE6nS5eeL3cDpTl5F1Q&usqp=CAU"
+      "image": "https://s3.ap-southeast-1.amazonaws.com/mytourcdn.com/resources/pictures/hotels/5/hlx1523529386_paracel_resort_hai_tien.jpg"
     },
     {
       "id": 31,
@@ -879,7 +887,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự tọa lạc bên hồ Tây, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "750,000 VND",
+      "price": 750000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -896,7 +904,7 @@
         "province": "Hà Nội",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBLFbMW8BCzYyRfg8eebC2XtLcsNk-mCJGw&usqp=CAU"
+      "image": "https://owa.bestprice.vn/images/hotels/uploads/movenpick-resort-phan-thiet-634e4ba809943.jpg"
     },
     {
       "id": 32,
@@ -905,7 +913,7 @@
       "bedRoom": 4,
       "bath": 3,
       "description": "Biệt thự nằm ở khu vực núi rừng tại Lào Cai, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "700,000 VND",
+      "price": 700000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -922,7 +930,7 @@
         "province": "Lào Cai",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtf0SkzRRFQwIJ1rwg13dcuS7uULtpNk0LNg&usqp=CAU"
+      "image": "https://rubeach-hotel-rerost-song-cau.hotelmix.vn/data/Photos/OriginalPhoto/12437/1243791/1243791394/Rubeach-Hotel-Rerost-Song-Cau-Exterior.JPEG"
     },
     {
       "id": 33,
@@ -931,7 +939,7 @@
       "bedRoom": 5,
       "bath": 4,
       "description": "Biệt thự nằm tại bãi biển ở Hải Phòng, view biển đẹp, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-      "price": "800,000 VND",
+      "price": 800000,
       "elevator": false,
       "hotTub": true,
       "pool": true,
@@ -948,7 +956,7 @@
         "province": "Hải Phòng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2E6G8Q4Vc1TX8nQJGJ_Q7Q2HdZn96XFTXw&usqp=CAU"
+      "image": "https://toquoc.mediacdn.vn/280518851207290880/2021/5/15/stunning-sunset-at-the-1620959674-1621047588038-1621047588473527755006.jpg"
     },
     {
       "id": 34,
@@ -957,7 +965,7 @@
       "bedRoom": 3,
       "bath": 2,
       "description": "Biệt thự tọa lạc tại đảo Cù Lao Chàm, view biển tuyệt đẹp, phòng ngủ tiện nghi và rộng rãi.",
-      "price": "750,000 VND",
+      "price": 750000,
       "elevator": false,
       "hotTub": false,
       "pool": true,
@@ -974,23 +982,21 @@
         "province": "Đà Nẵng",
         "country": "Việt Nam"
       },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMwKbIezzGGAk8cUr6jHmAp2HSrnKPQetjQ&usqp=CAU"
+      "image": "https://acihome.vn/uploads/15/khach-san-nghi-duong-ven-bien-2750m2-co-kien-truc-hoa-cung-thien-nhien-4.JPG"
     }
   ],
   "users": [
     {
-      "id": 1,
       "address": "Cầu Diễn",
       "birthday": "1970/1/1",
-      "email": "admin",
+      "email": "admin@gmail.com",
       "gender": true,
       "name": "admin",
-      "password": "123",
+      "password": "1",
       "phone": "0968572936",
-      "type": "ADMIN"
+      "id": 1
     },
     {
-      "id": 2,
       "address": "Cầu Diễn",
       "birthday": "1970/1/1",
       "email": "tuanthanh00200@gmail.com",
@@ -998,17 +1004,211 @@
       "name": "Tuấn Thành",
       "password": "123",
       "phone": "0968572936",
-      "type": "CLIENT"
+      "type": "CLIENT",
+      "id": 2
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The 50 Greatest Street Arts In London",
+      "date": "August 22, 2023",
+      "author": {
+        "name": "Tuấn Thành",
+        "email": "tuanthanh00200@gmail.com"
+      },
+      "content": "For the players of the pool, football and sad, such as, the mass of chocolate football.Production dedicated, makeup in men of life, time but propaganda. Chat is chosen any propaganda antioxidant. Clinical Vivamus developer, among vehicles except deduction. The arrow vestibular varies of clinical life. Mauris Aliquet Ultricies before, there was no throat before pregnancy but. However, basketball chili, Vultputate weekend but also does not wear sapien. To hate freedom, at Pot Gulputate. There was no tank for me from the valley. Without my beloved football. It also takes advantage of pregnancy. Tomorrow to receive the way of college throat, Nibh Laureeet laughter, a fear of Erros. Propagating football, the time of many football, nor, but the gate of laughter. Until you require a great football therapy tubertique nutrition needs football. Clinical skirt for a long time. As a sapien lake, investment from football or, this factor is a lot of activation. Maecenas price lorem peanut arrow. For a great, suitable and convenient boat, the ultrasound of life wants. Coming to zero zone, Euismod nutrition is deducted or, arrows or therapy. In the free pot, there has been a lot of football, no, not receiving a smile. But the consequence of not Mauris price at the time of therapy members. Each developer of Laore Malesuada. When pulling the ray and promoting the mountains, being born to be born. Life integer before. Fusce but the developer is. Stress is a lot of Mauris about the price of throat and some hate",
+      "image": "https://theworldtravelguy.com/wp-content/uploads/2023/09/DSCF0624_1200-2-1170x780.jpg"
     },
     {
-      "name": "Tuấn Thành",
-      "email": "tuanthanh00100@gmail.com",
-      "password": "123",
-      "phone": "0968572936",
-      "birthday": "//",
-      "gender": false,
-      "address": "Cầu Diễn",
+      "id": 2,
+      "title": "Dhigurah Island Travel Guide For Maldives",
+      "date": "February 26, 2024",
+      "author": {
+        "name": "Tuấn Thành",
+        "email": "tuanthanh00200@gmail.com"
+      },
+      "content": "Dhigurah island is probably the most beautiful island you’ve never heard of in the Maldives. It’s a local island without the fancy overwater resorts that are famous in Maldives, but instead it has a long and wonderful white sand beach. If you’re wanting to see the Maldives on a budget, this is one of the best places to do it. Dhigurah has all of the amazing tropical scenery you’d expect from the Maldives, plus family-owned hotels that are as low as $70 USD per night! We recently visited two local islands in the Maldives, Dhigurah and Fulidhoo, and couldn’t be happier with our choice. This travel guide will explain how to get to Dhigurah island, what to do there, where to stay, and everything else you need to know before you go!",
+      "image": "https://theworldtravelguy.com/wp-content/uploads/2024/02/DJI_0429_1200-1170x780.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lower Antelope Canyon Tour Review & Photos",
+      "date": "January 19, 2024",
+      "content": "For the players of the pool, football and sad, such as, the mass of chocolate football.Production dedicated, makeup in men of life, time but propaganda. Chat is chosen any propaganda antioxidant. Clinical Vivamus developer, among vehicles except deduction. The arrow vestibular varies of clinical life. Mauris Aliquet Ultricies before, there was no throat before pregnancy but. However, basketball chili, Vultputate weekend but also does not wear sapien. To hate freedom, at Pot Gulputate. There was no tank for me from the valley. Without my beloved football. It also takes advantage of pregnancy. Tomorrow to receive the way of college throat, Nibh Laureeet laughter, a fear of Erros. Propagating football, the time of many football, nor, but the gate of laughter. Until you require a great football therapy tubertique nutrition needs football. Clinical skirt for a long time. As a sapien lake, investment from football or, this factor is a lot of activation. Maecenas price lorem peanut arrow. For a great, suitable and convenient boat, the ultrasound of life wants. Coming to zero zone, Euismod nutrition is deducted or, arrows or therapy. In the free pot, there has been a lot of football, no, not receiving a smile. But the consequence of not Mauris price at the time of therapy members. Each developer of Laore Malesuada. When pulling the ray and promoting the mountains, being born to be born. Life integer before. Fusce but the developer is. Stress is a lot of Mauris about the price of throat and some hate",
+      "image": "https://theworldtravelguy.com/wp-content/uploads/2024/01/DSCF5316_1200.jpg",
+      "author": {
+        "name": "Tuấn Thành",
+        "email": "tuanthanh00200@gmail.com"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Samet Nangshe Viewpoint: Best Sunrise Spot In Thailand",
+      "date": "November 12, 2023",
+      "content": "The Samet Nangshe viewpoint in Thailand is one of the most beautiful places I’ve ever seen in my travels. It’s also fairly easy to get there by driving from the tourist island of Phuket. This viewpoint overlooks the spectacular Phang Nga Bay, a Thai national park with dozens of small islands. The sunrise at Samet Nangshe is especially nice because the sun rises directly over the bay! You can visit Samet Nangshe viewpoint on a day trip from Phuket and go back in the same day, or you can stay a night or two at the Samet Nangshe Boutique hotel, which has a pool and rooms that overlook the same wonderful scenery. This travel guide will explain how to get to Samet Nangshe viewpoint with or without a tour, where to stay, and everything else you need to know before you go!",
+      "image": "https://theworldtravelguy.com/wp-content/uploads/2023/11/DSCF1329_1200-3-1170x780.jpg",
+      "author": {
+        "name": "Tuấn Thành",
+        "email": "tuanthanh00200@gmail.com"
+      }
+    },
+    {
+      "id": 5,
+      "title": "How To Visit The Vietnam Incense Village (Quang Phu Cau) From Hanoi",
+      "date": "October 18, 2023",
+      "content": "The Hanoi area of Vietnam has lots of interesting places that you can visit on a short trip outside the city, and one of the best for photographers is the incense village of Quang Phu Cau, where colorful incense sticks are made. This Vietnamese village has apparently been making incense sticks for more than 100 years, and bushels of all different colors are laid out in the sun to dry every day, which is very photogenic and a fun sight to see. It’s easy to visit Quang Phu Cau on a half day trip from Hanoi, and the locals welcome visitors and photographers. The place is already becoming a bit popular with tourists. This travel guide will explain how to get to the Vietnam incense village (with or without a tour), when to visit for the best photos, and everything else you need to know before you go!",
+      "image": "https://theworldtravelguy.com/wp-content/uploads/2023/10/DSCF3580_1200-2-1170x780.jpg",
+      "author": {
+        "name": "Tuấn Thành",
+        "email": "tuanthanh00200@gmail.com"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "content": "The room was clean and cozy, perfect for a weekend getaway. The view from the window was breathtaking.",
+      "date": "June 2024",
+      "user": {
+        "id": 1,
+        "name": "admin"
+      },
+      "roomId": 1
+    }
+  ],
+  "bookings": [
+    {
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-10",
+      "user": {
+        "id": 2,
+        "address": "Cầu Diễn 1",
+        "birthday": "1970/1/1",
+        "email": "tuanthanh00200@gmail.com",
+        "gender": true,
+        "name": "Tuấn Thành",
+        "password": "123",
+        "phone": "0968572936"
+      },
+      "room": {
+        "id": 13,
+        "name": "Biệt thự Huế",
+        "guest": 6,
+        "bedRoom": 3,
+        "bath": 3,
+        "description": "Biệt thự tiện nghi tại thành phố cổ Huế, phòng ngủ thoải mái và đầy đủ tiện nghi.",
+        "price": 550000,
+        "elevator": false,
+        "hotTub": false,
+        "pool": true,
+        "indoorFireplace": false,
+        "dryer": true,
+        "gym": false,
+        "kitchen": true,
+        "wifi": true,
+        "heating": true,
+        "cableTV": true,
+        "location": {
+          "id": 13,
+          "name": "Huế",
+          "province": "Thừa Thiên Huế",
+          "country": "Việt Nam"
+        },
+        "image": "https://acihome.vn/uploads/15/khach-san-nghi-duong-ven-bien-2750m2-co-kien-truc-hoa-cung-thien-nhien-4.JPG"
+      },
+      "price": 1650000,
+      "date": "06/03/2024",
+      "status": "Pending",
       "id": 3
+    },
+    {
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-10",
+      "user": {
+        "id": 1,
+        "address": "Cầu Diễn",
+        "birthday": "1970/1/1",
+        "email": "admin",
+        "gender": true,
+        "name": "admin",
+        "password": "123",
+        "phone": "0968572936"
+      },
+      "room": {
+        "id": 11,
+        "name": "Biệt thự Hồ Tây",
+        "guest": 8,
+        "bedRoom": 4,
+        "bath": 3,
+        "description": "Biệt thự tuyệt vời bên hồ Tây, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
+        "price": 750000,
+        "elevator": false,
+        "hotTub": false,
+        "pool": true,
+        "indoorFireplace": true,
+        "dryer": true,
+        "gym": false,
+        "kitchen": true,
+        "wifi": true,
+        "heating": true,
+        "cableTV": true,
+        "location": {
+          "id": 11,
+          "name": "Hà Nội",
+          "province": "Hà Nội",
+          "country": "Việt Nam"
+        },
+        "image": "https://photo.znews.vn/w660/Uploaded/divspivp/2023_03_28/290012916_221527030199373_3032291677178224495_n.jpg"
+      },
+      "price": 3000000,
+      "date": "06/03/2024",
+      "status": "Pending",
+      "id": 4
+    },
+    {
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-10",
+      "user": {
+        "address": "Cầu Diễn",
+        "birthday": "1970/1/1",
+        "email": "admin@gmail.com",
+        "gender": true,
+        "name": "admin",
+        "password": "1",
+        "phone": "0968572936",
+        "id": 1
+      },
+      "room": {
+        "id": 12,
+        "name": "Biệt thự Sài Gòn",
+        "guest": 10,
+        "bedRoom": 5,
+        "bath": 4,
+        "description": "Biệt thự hiện đại tại Sài Gòn, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
+        "price": 900000,
+        "elevator": true,
+        "hotTub": true,
+        "pool": true,
+        "indoorFireplace": true,
+        "dryer": true,
+        "gym": true,
+        "kitchen": true,
+        "wifi": true,
+        "heating": true,
+        "cableTV": true,
+        "location": {
+          "id": 12,
+          "name": "Hồ Chí Minh",
+          "province": "Hồ Chí Minh",
+          "country": "Việt Nam"
+        },
+        "image": "https://i1-kinhdoanh.vnecdn.net/2022/05/10/image-334980159-extractword-1-3052-8192-1652143744.png?w=680&h=0&q=100&dpr=1&fit=crop&s=PD4N3jCnrL7MeLg2iEuJVQ"
+      },
+      "price": 2700000,
+      "date": "07/03/2024",
+      "status": "Pending",
+      "id": 5
     }
   ]
 }
