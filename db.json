@@ -1065,18 +1065,6 @@
       }
     }
   ],
-  "reviews": [
-    {
-      "id": 1,
-      "content": "The room was clean and cozy, perfect for a weekend getaway. The view from the window was breathtaking.",
-      "date": "June 2024",
-      "user": {
-        "id": 1,
-        "name": "admin"
-      },
-      "roomId": 1
-    }
-  ],
   "bookings": [
     {
       "checkIn": "2024-03-07",
@@ -1165,49 +1153,54 @@
       "date": "06/03/2024",
       "status": "Pending",
       "id": 4
+    }
+  ],
+  "reviews": [
+    {
+      "date": "06-03-2024",
+      "content": "The room was clean and cozy, perfect for a weekend getaway. The view from the window was breathtaking.",
+      "user": {
+        "id": 2,
+        "name": "Tuấn Thành"
+      },
+      "roomId": 12,
+      "id": 1
     },
     {
-      "checkIn": "2024-03-07",
-      "checkOut": "2024-03-10",
+      "content": "Phòng rất tốt!",
+      "date": "07-03-2024",
       "user": {
-        "address": "Cầu Diễn",
-        "birthday": "1970/1/1",
-        "email": "admin@gmail.com",
-        "gender": true,
-        "name": "admin",
-        "password": "1",
-        "phone": "0968572936",
-        "id": 1
+        "id": 1,
+        "name": "admin"
       },
-      "room": {
-        "id": 12,
-        "name": "Biệt thự Sài Gòn",
-        "guest": 10,
-        "bedRoom": 5,
-        "bath": 4,
-        "description": "Biệt thự hiện đại tại Sài Gòn, phòng ngủ rộng rãi và đầy đủ tiện nghi.",
-        "price": 900000,
-        "elevator": true,
-        "hotTub": true,
-        "pool": true,
-        "indoorFireplace": true,
-        "dryer": true,
-        "gym": true,
-        "kitchen": true,
-        "wifi": true,
-        "heating": true,
-        "cableTV": true,
-        "location": {
-          "id": 12,
-          "name": "Hồ Chí Minh",
-          "province": "Hồ Chí Minh",
-          "country": "Việt Nam"
-        },
-        "image": "https://i1-kinhdoanh.vnecdn.net/2022/05/10/image-334980159-extractword-1-3052-8192-1652143744.png?w=680&h=0&q=100&dpr=1&fit=crop&s=PD4N3jCnrL7MeLg2iEuJVQ"
+      "roomId": 12,
+      "id": 2
+    },
+    {
+      "content": "Very good!",
+      "date": "07-03-2024",
+      "user": {
+        "id": 1,
+        "name": "admin"
       },
-      "price": 2700000,
-      "date": "07/03/2024",
-      "status": "Pending",
+      "roomId": 13,
+      "id": 3
+    },
+    {
+      "content": "12",
+      "date": "07-03-2024",
+      "user": {},
+      "roomId": 25,
+      "id": 4
+    },
+    {
+      "content": "Very very goods",
+      "date": "07-03-2024",
+      "user": {
+        "id": 1,
+        "name": "admin"
+      },
+      "roomId": 17,
       "id": 5
     }
   ]
